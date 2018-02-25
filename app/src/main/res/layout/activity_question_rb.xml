@@ -142,7 +142,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:background="@drawable/my_button"
-                    android:text="Answer" />
+                    android:text="@string/answer" />
             </LinearLayout>
 
             <LinearLayout
@@ -157,7 +157,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:background="@drawable/my_button"
-                    android:text="Next" />
+                    android:text="@string/next" />
             </LinearLayout>
 
         </LinearLayout>
