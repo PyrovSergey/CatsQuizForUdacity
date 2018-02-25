@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CatsQuizForUdacity</string>
+
+    <string name="question_number_1">Question №1</string>
+    <string name="question_number_2">Question №2</string>
+    <string name="question_number_3">Question №3</string>
+    <string name="question_number_4">Question №4</string>
+
+    <string name="question_1">What is this breed?</string>
+    <string name="question_2">What is this breed?</string>
+
+    <string name="persian">Persian</string>
+    <string name="chartreux">Chartreux</string>
+    <string name="british_shorthair">British shorthair</string>
+    <string name="ragamuffin">Ragamuffin</string>
+    <string name="munchkin">Munchkin</string>
+    <string name="exotic_shorthair">Exotic shorthair</string>
+
+    <string name="right">Right!</string>
+    <string name="wrong">Wrong!</string>
+    <string name="pls_answer">"Please answer the question"</string>
+    <string name="question_3">What are two things about this breed.</string>
+    <string name="not_swim">Can not swim</string>
+    <string name="mutation">Carrier of natural mutation</string>
+    <string name="pls_two_answer">Please choose two correct answers.</string>
+    <string name="type_answer">Type answer</string>
+    <string name="question_4">How many lives does a cat have?</string>
+    <string name="result">Result</string>
+    <string name="exit">Exit</string>
+    <string name="you_answered">You answered</string>
+    <string name="questions_out_of_4">questions out of 4</string>
+
+</resources>
